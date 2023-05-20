@@ -13,3 +13,4 @@ AWS_PROFILE=<aws-profile-name> terraform plan -out .out
 terraform apply .out
 
 ```
+
