@@ -10,3 +10,4 @@ variable "vault_address" {
 variable "region" {
   default = "us-east-1"
 }
+
